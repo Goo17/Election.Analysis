@@ -34,7 +34,7 @@ The analysis of the election show that:
  2. Calculate the percentage of votes from each county.
  3. Determine which county has the higher turnout.
  
-##Challenge Summary
+#Challenge Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
 - The counties in the precint were:
