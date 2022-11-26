@@ -28,6 +28,18 @@ The analysis of the election show that:
   - Candidate Diana Degette, who recieved 73.8% of the vote and 272,892 number of the votes.
  
  ## Challenge Overview
+ The election commission requested additional information to be provided about county turnout.
+ 
+ 1. Find voter turnout for each county.
+ 2. Calculate the percentage of votes from each county.
+ 3. Determine which county has the higher turnout.
  
  ##Challenge Summary
-
+The analysis of the election show that:
+- There were 369,711 votes cast in the election.
+- The counties in the precint were:
+  - Jefferson: Accounting for 10.5% of the total votes, which was 38,855 votes.
+  - Denver: Accounting for 82.8% of the total votes, which was 306,055 votes.
+  - Arapahoe: Accounting for 6.7% of the total votes, which was 24,801 votes.
+- The county with the highest turnout was:
+  - Denver, which casted 82.8% of the total votes and 306,055 number of the votes.
